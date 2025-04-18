@@ -7,7 +7,7 @@ export default function Home() {
             Ted X Boulevard.
           </div>
           <div className="text-2xl">
-            What's Next?
+            What&apos;s Next?
           </div>
         </main>
         <div className="w-full flex justify-center items-center">
