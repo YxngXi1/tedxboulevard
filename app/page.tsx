@@ -11,7 +11,7 @@ export default function Home() {
           </div>
         </main>
         <div className="w-full flex justify-center items-center">
-          <p className="mx-auto text-black">including like everything else lmao</p>
+          <p className="mx-auto text-black">sigma stuff</p>
         </div>
       </section>
       
